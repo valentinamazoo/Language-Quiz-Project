@@ -23,7 +23,8 @@ To run the project, follow these steps:
 Clone the repository:
 git clone https://github.com/valentinamazoo/Language-Quiz-Project.git
 cd Language-Quiz-Project
-Run the quiz: Run the following command in your terminal to start the quiz:
+Run the quiz: 
+Run the following command in your terminal to start the quiz:
 python project.py
 The program will prompt you with Spanish words and ask for their English translation. After completing all the questions, you’ll receive your score.
 Run the unit tests: To ensure the functions are working correctly, you can run the unit tests using pytest:
