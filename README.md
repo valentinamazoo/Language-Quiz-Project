@@ -18,7 +18,7 @@ How to Run the Project:
 Requirements:
 Make sure you have Python installed on your computer.
 
-To run the project, follow these steps:
+To run the project follow these steps:
 
 Clone the repository:
 git clone https://github.com/valentinamazoo/Language-Quiz-Project.git
