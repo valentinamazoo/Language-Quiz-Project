@@ -34,14 +34,18 @@ This project is a *Flask-based web application* designed to quiz users on Spanis
    git clone <your-github-repo-url>
 Install Flask: If you haven’t already, install Flask by running the following command:
 pip install Flask
+
 Run the Application: To run the application, execute the following command:
 python project.py
+
 Access the App: Once the app is running, open your browser and navigate to:
 http://127.0.0.1:5000/
+
 Play the Quiz:
 Start the quiz by clicking the link on the home page.
 Translate the Spanish words into English as they appear.
 After finishing, check your results and try again if you'd like to improve your score!
+
 File Structure:
 project.py: The core logic of the app. It handles the Flask routes and quiz functionality.
 templates/index.html: Home page that introduces the quiz and provides a link to start it.
