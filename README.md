@@ -28,9 +28,10 @@ This project is a *Flask-based web application* designed to quiz users on Spanis
 
 ### How to Run the Project:
  ⁠*Clone the Repository*: 
-   To begin, clone the repository to your local machine using the following command:
+   clone the repository to your local machine using the following command:
    ```bash
    git clone <your-github-repo-url>
+
 Install Flask: If you haven’t already, install Flask by running the following command:
 pip install Flask
 
