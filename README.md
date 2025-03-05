@@ -27,8 +27,7 @@ This project is a *Flask-based web application* designed to quiz users on Spanis
 
 
 ### How to Run the Project:
-
-1.⁠ ⁠*Clone the Repository*: 
+ ⁠*Clone the Repository*: 
    To begin, clone the repository to your local machine using the following command:
    ```bash
    git clone <your-github-repo-url>
